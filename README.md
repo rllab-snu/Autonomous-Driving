@@ -1,6 +1,9 @@
 # Autonomous-Driving
 List of our studies related to autonomous driving
 
+## R3-Driving-Dataset
+Jeongwoo Oh, Gunmin Lee, Jeongeun Park, Wooseok Oh, Jaeseok Heo, Hojun Chung, Do Hyung Kim, Byungkyu Park, Chang-Gun Lee, Sungjoon Choi, and Songhwai Oh, "Towards Defensive Autonomous Driving: Collecting and Probing Driving Demonstrations of Mixed Qualities," in Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2022. [[paper]()][[dataset](https://github.com/rllab-snu/R3-Driving-Dataset)]
+
 ## Mog-DQN
 Yunho Choi, Kyungjae Lee, and Songhwai Oh, "Distributional Deep Reinforcement Learning with a Mixture of Gaussians," *in Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May. 2019.
 [[paper](http://rllab.snu.ac.kr/publications/papers/2019_icra_ddrl_mog.pdf)][[code](https://github.com/rllab-snu/mog_dqn_car_racing)]
