@@ -1,6 +1,9 @@
 # Autonomous-Driving
 List of our studies related to autonomous driving
 
+## RIANet
+Timothy Ha, Jeongwoo Oh, Hojun Chung, Gunmin Lee, and Songhwai Oh, "RIANet: Road Graph and Image Attention Network for Urban Autonomous Driving," in Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2022. [[code](https://github.com/rllab-snu/RIANet)]
+
 ## R3-Driving-Dataset
 Jeongwoo Oh, Gunmin Lee, Jeongeun Park, Wooseok Oh, Jaeseok Heo, Hojun Chung, Do Hyung Kim, Byungkyu Park, Chang-Gun Lee, Sungjoon Choi, and Songhwai Oh, "Towards Defensive Autonomous Driving: Collecting and Probing Driving Demonstrations of Mixed Qualities," in Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2022. [[paper]()][[dataset](https://github.com/rllab-snu/R3-Driving-Dataset)]
 
